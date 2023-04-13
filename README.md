@@ -33,6 +33,7 @@ Under here is a table where I give myself a rating on each of the learning outco
 |:---------------|:-----|:--------|
 |Web Application| <br/>|
 |Software Quality|<br/> |
+|Agile Method|
 |CI/CD|
 |Cultural differences and ethics||
 |Requirements and design||
