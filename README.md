@@ -9,7 +9,6 @@
 - [Group Project](https://github.com/Modus-1)
 
 ## Proof of Learning Outcomes
-[Click here](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
 |Web Application| [🔗]
