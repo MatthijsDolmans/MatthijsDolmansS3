@@ -11,19 +11,9 @@ For the individual project, I had the opportunity to work with a student and cho
 further down in this document u can find links to what i have been working on in semester 3. In the individuel project i worked together with Arthur Brouwers, and in the group project i worked together with Arthur Brouwers, Rik Fieret, Casper van den Dijk, Cedric Berden.
 
 ## Project Organizations
-- [Individual Project](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen)
+- [Individual Project]([https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen](https://github.com/ArthurBrouwersSemester3))
 - [Group Project](https://github.com/Modus-1)
 
-## Proof of Learning Outcomes
-| Learning Outcome | Proof |
-|:-----------------|:-----:|
-|Web Application| [🔗]
-|Software quality| [🔗]
-|Agile Method| [🔗]
-|CI/CD| [🔗]
-|Cultural differences and ethics| [🔗]
-|Requirements and design| [🔗]
-|Business processes| [🔗]
 
 ## Personal Learning Outcome Rating
 This is a personal  reflection on the learning outcomes for this semester.
@@ -38,3 +28,4 @@ Under here is a table where I give myself a rating on each of the learning outco
 |Cultural differences and ethics|Proficient| For our group project we have looked into code of ethics and written a document about how we experienced these ethics in our own project [ethics document](https://github.com/wocevv/Documentation/blob/main/Ethics.md).
 |Requirements and design||
 |Business process||
+|professional| Proficient | In the individual project we have kept our stakeholder up to date with what we wanted to achieve every sprint and how we reflected on the previous sprint and took his feedback into account while planning the next sprint. I have writted 3 research documents together with [arthur](https://github.com/orgs/ArthurBrouwersSemester3/people/Arthur-Brouwers) about ci/cd and [auth0/oauth2.0](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/Auth0Research.md) and as last i have documented the process of how these 18 weeks went in my portfolio.
