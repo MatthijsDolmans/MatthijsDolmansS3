@@ -33,8 +33,8 @@ Under here is a table where I give myself a rating on each of the learning outco
 |:---------------|:-----|:--------|
 |Web Application| <br/>|
 |Software Quality|<br/> |
-|Agile Method|
-|CI/CD|
-|Cultural differences and ethics||
+|Agile Method| Proficient | In our groupproject we always started off with a stand up where we talked about what we are gonna do for that day. After lunch break we would come together to tell each other what has been done or what the issues are so if needed someone could help. After every sprint we did a retrospective and made a new sprint planning, we did this using jira. We would take tasks from our backlog then put them into the sprint planning and give them storie points to estimate how much time was needed for it.
+|CI/CD| Proficient | In my individual project I have written a ci/cd pipeline that checks all the unit/integration tests on a pull request to main and if they fail u can not merge into main this is done by branch protection rules. if the tests succeeds it goes into the docker image build pipeline that creates the image and uploads it to dockerhub. 
+|Cultural differences and ethics|Proficient| For our group project we have looked into code of ethics and written a document about it how we experienced these things in our own project.
 |Requirements and design||
 |Business process||
